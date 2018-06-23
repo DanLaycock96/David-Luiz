@@ -1,0 +1,10 @@
+C:\Users\Me\source\repos\DavidLuiz\DavidLuiz\bin\Debug\DavidLuiz.exe.config
+C:\Users\Me\source\repos\DavidLuiz\DavidLuiz\bin\Debug\DavidLuiz.exe
+C:\Users\Me\source\repos\DavidLuiz\DavidLuiz\bin\Debug\DavidLuiz.pdb
+C:\Users\Me\source\repos\DavidLuiz\DavidLuiz\obj\Debug\DavidLuiz.csprojResolveAssemblyReference.cache
+C:\Users\Me\source\repos\DavidLuiz\DavidLuiz\obj\Debug\DavidLuiz.Form1.resources
+C:\Users\Me\source\repos\DavidLuiz\DavidLuiz\obj\Debug\DavidLuiz.Properties.Resources.resources
+C:\Users\Me\source\repos\DavidLuiz\DavidLuiz\obj\Debug\DavidLuiz.csproj.GenerateResource.Cache
+C:\Users\Me\source\repos\DavidLuiz\DavidLuiz\obj\Debug\DavidLuiz.csproj.CoreCompileInputs.cache
+C:\Users\Me\source\repos\DavidLuiz\DavidLuiz\obj\Debug\DavidLuiz.exe
+C:\Users\Me\source\repos\DavidLuiz\DavidLuiz\obj\Debug\DavidLuiz.pdb
